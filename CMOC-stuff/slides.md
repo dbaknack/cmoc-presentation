@@ -1,5 +1,4 @@
 ### MOBILITY REQUIREMENTS
-## this is a test
 
 Mobility requirements vary based on the types of unit(s) supported and the same supported unit(s) mission.
 
